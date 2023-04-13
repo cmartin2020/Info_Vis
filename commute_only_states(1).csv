@@ -1,0 +1,101 @@
+,state,state_abb,mode,n
+0,Alabama,AL,Bike,1780
+1,Alabama,AL,Walk,11071
+2,Alaska,AK,Bike,2222
+3,Alaska,AK,Walk,6103
+4,Arizona,AZ,Bike,22040
+5,Arizona,AZ,Walk,42582
+6,Arkansas,AR,Bike,826
+7,Arkansas,AR,Walk,9738
+8,California,CA,Bike,142845
+9,California,CA,Walk,358709
+10,Colorado,CO,Bike,24314
+11,Colorado,CO,Walk,40567
+12,Connecticut,CT,Bike,2679
+13,Connecticut,CT,Walk,26975
+14,Delaware,DE,Bike,429
+15,Delaware,DE,Walk,4759
+16,Florida,FL,Bike,31928
+17,Florida,FL,Walk,71683
+18,Georgia,GA,Bike,3870
+19,Georgia,GA,Walk,23325
+20,Hawaii,HI,Bike,3070
+21,Hawaii,HI,Walk,15637
+22,Idaho,ID,Bike,6303
+23,Idaho,ID,Walk,11006
+24,Illinois,IL,Bike,27880
+25,Illinois,IL,Walk,142457
+26,Indiana,IN,Bike,7921
+27,Indiana,IN,Walk,35085
+28,Iowa,IA,Bike,4396
+29,Iowa,IA,Walk,24415
+30,Kansas,KS,Bike,3368
+31,Kansas,KS,Walk,17298
+32,Kentucky,KY,Bike,2046
+33,Kentucky,KY,Walk,11592
+34,Louisiana,LA,Bike,5260
+35,Louisiana,LA,Walk,18736
+36,Maine,ME,Bike,1069
+37,Maine,ME,Walk,8240
+38,Maryland,MD,Bike,3397
+39,Maryland,MD,Walk,26934
+40,Massachusetts,MA,Bike,16661
+41,Massachusetts,MA,Walk,110278
+42,Michigan,MI,Bike,9925
+43,Michigan,MI,Walk,45522
+44,Minnesota,MN,Bike,15830
+45,Minnesota,MN,Walk,41074
+46,Mississippi,MS,Bike,965
+47,Mississippi,MS,Walk,8492
+48,Missouri,MO,Bike,4091
+49,Missouri,MO,Walk,25544
+50,Montana,MT,Bike,4837
+51,Montana,MT,Walk,8969
+52,Nebraska,NE,Bike,3220
+53,Nebraska,NE,Walk,13069
+54,Nevada,NV,Bike,2903
+55,Nevada,NV,Walk,11950
+56,New Hampshire,NH,Bike,621
+57,New Hampshire,NH,Walk,6529
+58,New Jersey,NJ,Bike,4061
+59,New Jersey,NJ,Walk,66005
+60,New Mexico,NM,Bike,4938
+61,New Mexico,NM,Walk,9774
+62,New York,NY,Bike,34061
+63,New York,NY,Walk,447952
+64,North Carolina,NC,Bike,7364
+65,North Carolina,NC,Walk,42704
+66,North Dakota,ND,Bike,1471
+67,North Dakota,ND,Walk,5480
+68,Ohio,OH,Bike,8807
+69,Ohio,OH,Walk,68139
+70,Oklahoma,OK,Bike,3100
+71,Oklahoma,OK,Walk,18486
+72,Oregon,OR,Bike,34030
+73,Oregon,OR,Walk,43978
+74,Pennsylvania,PA,Bike,16437
+75,Pennsylvania,PA,Walk,99493
+76,Rhode Island,RI,Bike,1700
+77,Rhode Island,RI,Walk,12649
+78,South Carolina,SC,Bike,3439
+79,South Carolina,SC,Walk,20337
+80,South Dakota,SD,Bike,1269
+81,South Dakota,SD,Walk,4383
+82,Tennessee,TN,Bike,2082
+83,Tennessee,TN,Walk,15360
+84,Texas,TX,Bike,24085
+85,Texas,TX,Walk,126332
+86,Utah,UT,Bike,8023
+87,Utah,UT,Walk,26155
+88,Vermont,VT,Bike,1101
+89,Vermont,VT,Walk,4490
+90,Virginia,VA,Bike,8330
+91,Virginia,VA,Walk,39953
+92,Washington,WA,Bike,22037
+93,Washington,WA,Walk,72340
+94,West Virginia,WV,Bike,404
+95,West Virginia,WV,Walk,6094
+96,Wisconsin,WI,Bike,14289
+97,Wisconsin,WI,Walk,46802
+98,Wyoming,WY,Bike,1534
+99,Wyoming,WY,Walk,3155
