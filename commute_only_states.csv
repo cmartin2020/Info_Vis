@@ -1,0 +1,101 @@
+,state,mode,n
+0,Alabama,Bike,1780
+1,Alabama,Walk,11071
+2,Alaska,Bike,2222
+3,Alaska,Walk,6103
+4,Arizona,Bike,22040
+5,Arizona,Walk,42582
+6,Arkansas,Bike,826
+7,Arkansas,Walk,9738
+8,California,Bike,142845
+9,California,Walk,358709
+10,Colorado,Bike,24314
+11,Colorado,Walk,40567
+12,Connecticut,Bike,2679
+13,Connecticut,Walk,26975
+14,Delaware,Bike,429
+15,Delaware,Walk,4759
+16,Florida,Bike,31928
+17,Florida,Walk,71683
+18,Georgia,Bike,3870
+19,Georgia,Walk,23325
+20,Hawaii,Bike,3070
+21,Hawaii,Walk,15637
+22,Idaho,Bike,6303
+23,Idaho,Walk,11006
+24,Illinois,Bike,27880
+25,Illinois,Walk,142457
+26,Indiana,Bike,7921
+27,Indiana,Walk,35085
+28,Iowa,Bike,4396
+29,Iowa,Walk,24415
+30,Kansas,Bike,3368
+31,Kansas,Walk,17298
+32,Kentucky,Bike,2046
+33,Kentucky,Walk,11592
+34,Louisiana,Bike,5260
+35,Louisiana,Walk,18736
+36,Maine,Bike,1069
+37,Maine,Walk,8240
+38,Maryland,Bike,3397
+39,Maryland,Walk,26934
+40,Massachusetts,Bike,16661
+41,Massachusetts,Walk,110278
+42,Michigan,Bike,9925
+43,Michigan,Walk,45522
+44,Minnesota,Bike,15830
+45,Minnesota,Walk,41074
+46,Mississippi,Bike,965
+47,Mississippi,Walk,8492
+48,Missouri,Bike,4091
+49,Missouri,Walk,25544
+50,Montana,Bike,4837
+51,Montana,Walk,8969
+52,Nebraska,Bike,3220
+53,Nebraska,Walk,13069
+54,Nevada,Bike,2903
+55,Nevada,Walk,11950
+56,New Hampshire,Bike,621
+57,New Hampshire,Walk,6529
+58,New Jersey,Bike,4061
+59,New Jersey,Walk,66005
+60,New Mexico,Bike,4938
+61,New Mexico,Walk,9774
+62,New York,Bike,34061
+63,New York,Walk,447952
+64,North Carolina,Bike,7364
+65,North Carolina,Walk,42704
+66,North Dakota,Bike,1471
+67,North Dakota,Walk,5480
+68,Ohio,Bike,8807
+69,Ohio,Walk,68139
+70,Oklahoma,Bike,3100
+71,Oklahoma,Walk,18486
+72,Oregon,Bike,34030
+73,Oregon,Walk,43978
+74,Pennsylvania,Bike,16437
+75,Pennsylvania,Walk,99493
+76,Rhode Island,Bike,1700
+77,Rhode Island,Walk,12649
+78,South Carolina,Bike,3439
+79,South Carolina,Walk,20337
+80,South Dakota,Bike,1269
+81,South Dakota,Walk,4383
+82,Tennessee,Bike,2082
+83,Tennessee,Walk,15360
+84,Texas,Bike,24085
+85,Texas,Walk,126332
+86,Utah,Bike,8023
+87,Utah,Walk,26155
+88,Vermont,Bike,1101
+89,Vermont,Walk,4490
+90,Virginia,Bike,8330
+91,Virginia,Walk,39953
+92,Washington,Bike,22037
+93,Washington,Walk,72340
+94,West Virginia,Bike,404
+95,West Virginia,Walk,6094
+96,Wisconsin,Bike,14289
+97,Wisconsin,Walk,46802
+98,Wyoming,Bike,1534
+99,Wyoming,Walk,3155
